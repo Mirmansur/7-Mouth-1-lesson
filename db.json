@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "username": "Smith"
+    },
+    {
+      "id": 2,
+      "name": "Iloyos",
+      "username": "Suyunov"
+    },
+    {
+      "id": 3,
+      "name": "Diyor",
+      "username": "Axmedov"
+    },
+    {
+      "id": 4,
+      "name": "Afzal",
+      "username": "Ahmedov"
+    },
+    {
+      "id": 5,
+      "name": "Ibrohim",
+      "username": "Atxamov"
+    },
+    {
+      "id": 6,
+      "name": "John",
+      "username": "Doe"
+    },
+    {
+      "id": 7,
+      "name": "Don",
+      "username": "Smith"
+    },
+    {
+      "id": 8,
+      "name": "Symone",
+      "username": "Smith"
+    },
+    {
+      "id": 9,
+      "name": "Tom",
+      "username": "Holend"
+    },
+    {
+      "id": 10,
+      "name": "Mirabror",
+      "username": "Raxmatov"
+    },
+    {
+      "id": "8526",
+      "name": "New Name",
+      "username": "New Username"
+    }
+  ]
+}

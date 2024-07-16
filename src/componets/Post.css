@@ -1,0 +1,64 @@
+.tableALLL {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  margin-top: 80px;
+  overflow: auto !important;
+  gap: 20px;
+}
+
+.td {
+  font-family: Mulish;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.th {
+  font-family: Mulish;
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+.start {
+  display: flex;
+  padding: 30px;
+  justify-content: space-between;
+}
+.start button {
+  font-family: Mulish;
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+.Edit {
+  font-family: Mulish;
+  background-color: #ba940a;
+  color: white;
+  padding: 7px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+  margin-left: 15px;
+  margin-top: -10px;
+}
+
+.Delete {
+  font-family: Mulish;
+  background-color: #8c0707;
+  color: white;
+  padding: 7px 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 12px;
+  margin-left: 15px;
+  margin-top: 10px;
+}
